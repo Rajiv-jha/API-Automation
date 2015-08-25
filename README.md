@@ -8,5 +8,3 @@ Basic Function
 3. PUT Call
 4. DELETE Call
 5. Value after particular Key word.
-6. 
-6. 
